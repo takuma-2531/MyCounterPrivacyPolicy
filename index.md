@@ -48,13 +48,13 @@ For example, when an app crashes, we can anonymously send you the part of the ap
 This application uses AdMob (Google Inc.) as an ad serving tool, and AdMob may automatically acquire information about the user.
 For information on information collected, purposes of use, and provision to third parties, please refer to the following links to the application privacy policies of ad-serving companies.
 
-[Google Ad Policy](https://policies.google.com/technologies/ads?hl=ja)
+[Google Ad Policy](https://policies.google.com/technologies/ads?hl=en)
 
 ### About Usage Analysis
 This application uses Firebase (Google Inc.) as a tool to collect application usage data for reference in future development, and Firebase may automatically acquire user information.
 Please click on the Google Privacy Policy link below to learn more about the information we collect, how we use it, and how we provide it to third parties.
 
-[Google Privacy Policy](https://policies.google.com/privacy?hl=ja)
+[Google Privacy Policy](https://policies.google.com/privacy?hl=en)
 
 ### Revision of Privacy Policy
 We may, at our own discretion, change this policy at any time without notice.
